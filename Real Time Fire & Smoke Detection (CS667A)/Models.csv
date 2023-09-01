@@ -1,0 +1,6 @@
+Pre-Trained Model,Optimizer,Training Accuracy (%),Validation Accuracy (%),Test Accuracy (%),Model Size,Kaggle URL
+ResNet-50,SGD,99.02,96.22,96,94.2 MB,https://www.kaggle.com/code/pranjalsriv/transfer-learning-iot-label?scriptVersionId=111174719
+MobileNetV1,SGD,98.41,94.33,94.11,14.3 MB,https://www.kaggle.com/code/pranjalsriv/transfer-learning-iot-label/notebook
+MobileNetV2,SGD,98.44,94.44,94.55,12.4 MB,https://www.kaggle.com/code/pranjalsriv/transfer-learning-iot-label?scriptVersionId=111167893
+EfficientNetB0,Adam,98.78,95.77,94.88,20.9 MB,https://www.kaggle.com/code/pranjalsriv/transfer-learning-iot-label?scriptVersionId=111169320
+InceptionV3,Adam,95.15,92.11,90.55,89.8 MB,https://www.kaggle.com/code/pranjalsriv/transfer-learning-iot-label?scriptVersionId=111171120
